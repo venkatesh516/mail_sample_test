@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <title>Manah home</title>
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+
+  <!-- Favicons -->
+  <!-- <link href="assets/img/favicon.png" rel="icon"> -->
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com" rel="preconnect">
+  <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <!-- <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet"> -->
+  <!-- <link href="assets/vendor/aos/aos.css" rel="stylesheet"> -->
+
+  <!-- Main CSS File -->
+  <link href="css/style.css" rel="stylesheet">
+<style>
+.popup {
+      display: none; position: fixed; top: 0; left: 0;
+      width: 100%; height: 100%;
+      background-color: rgba(0,0,0,0.5);
+      justify-content: center; align-items: center;
+      z-index:999;
+    }
+    .popup-content {
+      background: white; padding: 30px;
+      border-radius: 8px; text-align: center;
+    }
+.loader {
+  display: none;
+  margin-top: 15px;
+  text-align: center;
+  font-weight: bold;
+  color: #d6a808;
+  margin-left: 15px;
+}
+
+.form-loading .loader {
+  display: block;
+}
+
+.form-loading button {
+  opacity: 0.6;
+  pointer-events: none;
+}
+</style>
+
+</head>
+
+<body class="inner-styles">
+
+  <header id="header" class="header d-flex align-items-center fixed-top">
+    <div class="container-fluid container-xl position-relative d-flex align-items-center">
+
+      <a href="index.html" class="logo d-flex align-items-center me-auto">
+        <!-- Uncomment the line below if you also wish to use an image logo -->
+        <!-- <img src="assets/img/manah-logo.png" alt="img"> -->
+      </a>
+
+      <nav id="navmenu" class="navmenu me-auto">
+        <ul>
+          <!-- <li><a href="index.html">Home</a></li>
+          <li><a href="aboutus.html">About Us</a></li>
+          <li class="dropdown"><a href="#"><span>Portfolios</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+            <ul>
+              <li><a href="portfolio-manadynamics.html">Manah Dynamics</a></li>
+              <li><a href="portfolio-manaaerospace.html">Manah Aerospace & Engineering</a></li>
+              <li><a href="#">Manah Investments</a></li>
+              <li><a href="#">Manah Realty</a></li>
+              <li><a href="portfolio-manasteel.html">Manah Steel and Engineering</a></li>
+            </ul>
+          </li>
+          <li><a href="#">Blog</a></li> -->
+          <!-- <li><a href="ourteam.html">Our Team</a></li> -->
+          <!-- <li><a href="contactus.html" class="active">Contact Us</a></li> -->
+        </ul>
+        <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+      </nav>
+      <!-- <div class="ctas">
+        <a class="cta-btn" href="#"><i class="bi bi-envelope-open-fill"></i> info@manah.com</a>
+        <a class="cta-btn" href="#"><i class="bi bi-telephone-fill"></i> 040 35199999</a>
+      </div> -->
+    </div>
+  </header>
+
+  <main class="main portfos">
+
+    <!-- /Contact Section -->   
+ 
+    <section class="p-0" style="background-color: #F1F4FA;">
+    <div class="container pb-0">
+      <div class="testimonials section dark-background11">
+        <img src="form-bg.jpg" loading="lazy" class="testimonials-bg" alt="bg">
+        <div class="container section-title contact pb-0" data-aos="fade-up" data-aos-delay="100">
+          <div class="form-contact contact-form">
+            <form action="mail.php" method="post" id="contactForm" class="php-email-form">
+              <div class="row gy-4">
+                <div class="mx-1">
+                  <h2>We Would like to hear from you</h2>
+                  <h5>Our goal is to help our clients maintain or achieve best - in - class positions in their repsective industries.</h5>
+                </div>
+                <div class="col-md-6">
+                <div class="input">
+                  <input type="text" name="name" class="form-control" placeholder="Your Name *" required>
+                </div>
+              </div>
+
+              <div class="col-md-6">
+                <input type="email" class="form-control" name="email" placeholder="Your Email *" required>
+              </div>
+
+              <div class="col-md-6">
+                <input type="text" class="form-control" name="subject" placeholder="Subject *" required>
+              </div>
+              <div class="col-md-6">
+                <input type="text" class="form-control" name="company" placeholder="Company *" required>
+              </div>
+              <div class="col-md-6">
+                <input type="text" class="form-control" name="website"  placeholder="Website *" required>
+              </div>
+              <div class="col-md-6">
+                <select name="query" class="form-control">
+                  <option value="">-- Select --</option>
+                  <option value="General Inquiry">General Inquiry</option>
+                  <option value="Support">Support</option>
+                  <option value="Feedback">Feedback</option>
+                  <option value="Partnership">Partnership</option>
+                </select>
+              </div>
+
+              <div class="col-md-6">
+                <textarea class="form-control" name="message" rows="4" placeholder="Message *" required=""></textarea>
+              <!-- <div class="text-center">
+                <div class="loading">Loading</div>
+                <div class="error-message"></div>
+                <div class="sent-message">Your message has been sent. Thank you!</div>
+              </div> -->
+              </div>
+              <div class="col-md-6 d-flex">
+                <div class="d-flex align-items-end">
+                <button type="submit">Send Message</button>
+                <div class="loader" id="loader">Sending...</div>
+                </div>
+              </div>
+
+            </div>
+          </form>
+          </div>
+          </div>
+    </div>
+  </div>
+    </section>
+  </main>
+<!-- Map View -->
+  <!-- Dialog starts here -->
+  <div class="modal fade" id="mapViewModel" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="mapViewLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+
+      </div>
+    </div>
+  </div>
+  <!-- End Map View -->
+  
+
+<!-- Success Popup -->
+<div class="popup" id="successPopup">
+  <div class="popup-content">
+    <h3>Thank you!</h3>
+    <p>Your message has been sent successfully.</p>
+  </div>
+</div>
+
+  <!-- Scroll Top -->
+  <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Preloader -->
+  <div id="preloader"></div>
+
+  <!-- Vendor JS Files -->
+  <!-- <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script> -->
+  <!-- <script src="assets/vendor/php-email-form/validate.js"></script> -->
+  <!-- <script src="assets/vendor/aos/aos.js"></script> -->
+
+ <script src="js/main.js"></script>
+ <script>
+  const form = document.getElementById('contactForm');
+  const popup = document.getElementById('successPopup');
+  const loader = document.getElementById('loader');
+  const formContainer = form.closest('.contact-form'); // The form wrapper div
+
+  form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+
+    formContainer.classList.add('form-loading'); // show loader & disable button
+
+    const formData = new FormData(form);
+    const response = await fetch('mail.php', {
+      method: 'POST',
+      body: formData
+    });
+
+    formContainer.classList.remove('form-loading'); // hide loader
+
+    if (response.ok) {
+      popup.style.display = 'flex';
+      setTimeout(() => {
+        popup.style.display = 'none';
+        form.reset();
+      }, 3000);
+    } else {
+      alert('Something went wrong. Please try again.');
+    }
+  });
+</script>
+</body>
+
+</html>

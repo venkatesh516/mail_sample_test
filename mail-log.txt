@@ -1,0 +1,285 @@
+Trying to send email...
+To: venkatesh.c16@gmail.com
+Subject: testyttt
+Headers: From: test@gmail.com
+Reply-To: test@gmail.com
+
+Body:
+Name: test
+Email: test@gmail.com
+Subject: testyttt
+Company: test.commmmm
+Website: test.commmmm
+Query Type: General Inquiry
+
+Message:
+tesjlksnhdknsdkjvbsdbvkhsdbkvbksb
+✅ Mail sent successfully
+
+Trying to send email...
+To: venkat.ch@manah.com
+Subject: test
+Headers: From: adad@gmail.com
+Reply-To: adad@gmail.com
+
+Body:
+Name: venkat
+Email: adad@gmail.com
+Subject: test
+Company: test
+Website: test
+Query Type: General Inquiry
+
+Message:
+qdnlkndjiniadbiasbdksabdkjasbdbaskdbkasbdkbasdkjbs
+✅ Mail sent successfully
+
+Trying to send email...
+To: venkat.ch@manah.com
+Subject: test
+Headers: From: adad@gmail.com
+Reply-To: adad@gmail.com
+
+Body:
+Name: venkat123456
+Email: adad@gmail.com
+Subject: test
+Company: test
+Website: test.com
+Query Type: Feedback
+
+Message:
+ytuqwgeuhbvqjhdb
+qjhdbjasbdsabkc
+kbdcksbdkcdb
+✅ Mail sent successfully
+
+Trying to send email...
+To: venkat.ch@manah.com
+Subject: Test Mail from Venkat
+Headers: From: vkt@gmail.com
+Reply-To: vkt@gmail.com
+
+Body:
+<table width=730 border=0 align=center cellpadding=0 cellspacing=0 class=border_temp>
+
+      <tr>
+        <td align=left valign=top><table width=730 border=0 cellspacing=0 cellpadding=0>
+          
+          <tr>
+            <td align=center valign=top>
+
+        <table width=93% border=0 cellspacing=1 cellpadding=7>
+              <tr>
+                <td colspan=2 align=left valign=middle bgcolor=#F0F0F0><font face=Arial font-weight: bold size=5px style=color:#000 text-decoration:none><strong>Hi this is Venkat 
+    Contact Details</strong></font></td>
+                </tr>
+
+                    
+              <tr>
+                <td width=23% align=left valign=middle bgcolor=#E3E3E3><font face=Arial size=2px style=color:#000 text-decoration:none>Contact Name</font></td>
+                <td width=77% align=left valign=middle bgcolor=#E3E3E3><font face=Arial size=2px style=color:#000 text-decoration:none><strong>
+
+    Hi this is Venkat</strong></font></td>
+              </tr>
+
+              <tr>
+                <td align=left valign=middle bgcolor=#E3E3E3><font face=Arial size=2px style=color:#000 text-decoration:none>Email ID </font></td>
+                <td align=left valign=middle bgcolor=#E3E3E3><font face=Arial size=2px style=color:#000 text-decoration:none=text-decoration:none><strong>
+
+    vkt@gmail.com</strong></font></td>
+              </tr>
+                     
+              <tr>
+                <td align=left valign=middle bgcolor=#E3E3E3><font face=Arial size=2px style=color:#000 text-decoration:none>Subject </font></td>
+                <td align=left valign=middle bgcolor=#E3E3E3><font face=Arial size=2px style=color:#000 text-decoration:none=text-decoration:none><strong>
+    Test Mail from Venkat</strong></font></td>
+              </tr>
+
+              <tr>
+                <td align=left valign=middle bgcolor=#E3E3E3><font face=Arial size=2px style=color:#000 text-decoration:none>Company </font></td>
+                <td align=left valign=middle bgcolor=#E3E3E3><font face=Arial size=2px style=color:#000 text-decoration:none=text-decoration:none><strong>
+    vkt.com</strong></font></td>
+              </tr>
+
+              <tr>
+                <td align=left valign=middle bgcolor=#E3E3E3><font face=Arial size=2px style=color:#000 text-decoration:none>Website </font></td>
+                <td align=left valign=middle bgcolor=#E3E3E3><font face=Arial size=2px style=color:#000 text-decoration:none=text-decoration:none><strong>
+    www.vkc.com</strong></font></td>
+              </tr>
+            
+              <tr>
+                <td align=left valign=middle bgcolor=#E3E3E3><font face=Arial size=2px style=color:#000 text-decoration:none>Query </font></td>
+                <td align=left valign=middle bgcolor=#E3E3E3><font face=Arial size=2px style=color:#000 text-decoration:none=text-decoration:none><strong>
+    Feedback</strong></font></td>
+              </tr>
+
+              <tr>
+                <td align=left valign=middle bgcolor=#E3E3E3><font face=Arial size=2px style=color:#000 text-decoration:none>Message</font></td>
+                <td align=left valign=middle bgcolor=#E3E3E3><font face=Arial size=2px style=color:#000 text-decoration:none><strong>Hi Helooop, How r uuuuuuuuuu>??</strong></font></td>
+              </tr>
+              <tr><td colspan=2 align=left valign=middle bgcolor=#F0F0F0><font face=Arial size=2px style=color:#000><strong>*** This message has been sent from abc.com ***</strong></font></td></tr>
+         
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+      </tr>
+    </table>
+
+✅ Mail sent successfully
+
+Trying to send email...
+To: venkat.ch@manah.com
+Subject: test
+Headers: From: admin@mdpl.com
+Reply-To: admin@mdpl.com
+
+Body:
+<table width=730 border=0 align=center cellpadding=0 cellspacing=0 class=border_temp>
+
+      <tr>
+        <td align=left valign=top><table width=730 border=0 cellspacing=0 cellpadding=0>
+          
+          <tr>
+            <td align=center valign=top>
+
+        <table width=93% border=0 cellspacing=1 cellpadding=7>
+              <tr>
+                <td colspan=2 align=left valign=middle bgcolor=#F0F0F0><font face=Arial font-weight: bold size=5px style=color:#000 text-decoration:none><strong>venkat 
+    Contact Details</strong></font></td>
+                </tr>
+
+                    
+              <tr>
+                <td width=23% align=left valign=middle bgcolor=#E3E3E3><font face=Arial size=2px style=color:#000 text-decoration:none>Contact Name</font></td>
+                <td width=77% align=left valign=middle bgcolor=#E3E3E3><font face=Arial size=2px style=color:#000 text-decoration:none><strong>
+
+    venkat</strong></font></td>
+              </tr>
+
+              <tr>
+                <td align=left valign=middle bgcolor=#E3E3E3><font face=Arial size=2px style=color:#000 text-decoration:none>Email ID </font></td>
+                <td align=left valign=middle bgcolor=#E3E3E3><font face=Arial size=2px style=color:#000 text-decoration:none=text-decoration:none><strong>
+
+    admin@mdpl.com</strong></font></td>
+              </tr>
+                     
+              <tr>
+                <td align=left valign=middle bgcolor=#E3E3E3><font face=Arial size=2px style=color:#000 text-decoration:none>Subject </font></td>
+                <td align=left valign=middle bgcolor=#E3E3E3><font face=Arial size=2px style=color:#000 text-decoration:none=text-decoration:none><strong>
+    test</strong></font></td>
+              </tr>
+
+              <tr>
+                <td align=left valign=middle bgcolor=#E3E3E3><font face=Arial size=2px style=color:#000 text-decoration:none>Company </font></td>
+                <td align=left valign=middle bgcolor=#E3E3E3><font face=Arial size=2px style=color:#000 text-decoration:none=text-decoration:none><strong>
+    test</strong></font></td>
+              </tr>
+
+              <tr>
+                <td align=left valign=middle bgcolor=#E3E3E3><font face=Arial size=2px style=color:#000 text-decoration:none>Website </font></td>
+                <td align=left valign=middle bgcolor=#E3E3E3><font face=Arial size=2px style=color:#000 text-decoration:none=text-decoration:none><strong>
+    test.com</strong></font></td>
+              </tr>
+            
+              <tr>
+                <td align=left valign=middle bgcolor=#E3E3E3><font face=Arial size=2px style=color:#000 text-decoration:none>Query </font></td>
+                <td align=left valign=middle bgcolor=#E3E3E3><font face=Arial size=2px style=color:#000 text-decoration:none=text-decoration:none><strong>
+    Partnership</strong></font></td>
+              </tr>
+
+              <tr>
+                <td align=left valign=middle bgcolor=#E3E3E3><font face=Arial size=2px style=color:#000 text-decoration:none>Message</font></td>
+                <td align=left valign=middle bgcolor=#E3E3E3><font face=Arial size=2px style=color:#000 text-decoration:none><strong>hbwjhfbgwajhfbgjasdhkbfsdhkjf kjsdbfkjskf</strong></font></td>
+              </tr>
+              <tr><td colspan=2 align=left valign=middle bgcolor=#F0F0F0><font face=Arial size=2px style=color:#000><strong>*** This message has been sent from abc.com ***</strong></font></td></tr>
+         
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+      </tr>
+    </table>
+
+✅ Mail sent successfully
+
+Trying to send email...
+To: venkat.ch@manah.com
+Subject: test
+Headers: From: venkat.ch@manah.com
+Reply-To: venkat.ch@manah.com
+
+Body:
+<table width=730 border=0 align=center cellpadding=0 cellspacing=0 class=border_temp>
+
+      <tr>
+        <td align=left valign=top><table width=730 border=0 cellspacing=0 cellpadding=0>
+          
+          <tr>
+            <td align=center valign=top>
+
+        <table width=93% border=0 cellspacing=1 cellpadding=7>
+              <tr>
+                <td colspan=2 align=left valign=middle bgcolor=#F0F0F0><font face=Arial font-weight: bold size=5px style=color:#000 text-decoration:none><strong>venkat 
+    Contact Details</strong></font></td>
+                </tr>
+
+                    
+              <tr>
+                <td width=23% align=left valign=middle bgcolor=#E3E3E3><font face=Arial size=2px style=color:#000 text-decoration:none>Contact Name</font></td>
+                <td width=77% align=left valign=middle bgcolor=#E3E3E3><font face=Arial size=2px style=color:#000 text-decoration:none><strong>
+
+    venkat</strong></font></td>
+              </tr>
+
+              <tr>
+                <td align=left valign=middle bgcolor=#E3E3E3><font face=Arial size=2px style=color:#000 text-decoration:none>Email ID </font></td>
+                <td align=left valign=middle bgcolor=#E3E3E3><font face=Arial size=2px style=color:#000 text-decoration:none=text-decoration:none><strong>
+
+    venkat.ch@manah.com</strong></font></td>
+              </tr>
+                     
+              <tr>
+                <td align=left valign=middle bgcolor=#E3E3E3><font face=Arial size=2px style=color:#000 text-decoration:none>Subject </font></td>
+                <td align=left valign=middle bgcolor=#E3E3E3><font face=Arial size=2px style=color:#000 text-decoration:none=text-decoration:none><strong>
+    test</strong></font></td>
+              </tr>
+
+              <tr>
+                <td align=left valign=middle bgcolor=#E3E3E3><font face=Arial size=2px style=color:#000 text-decoration:none>Company </font></td>
+                <td align=left valign=middle bgcolor=#E3E3E3><font face=Arial size=2px style=color:#000 text-decoration:none=text-decoration:none><strong>
+    test</strong></font></td>
+              </tr>
+
+              <tr>
+                <td align=left valign=middle bgcolor=#E3E3E3><font face=Arial size=2px style=color:#000 text-decoration:none>Website </font></td>
+                <td align=left valign=middle bgcolor=#E3E3E3><font face=Arial size=2px style=color:#000 text-decoration:none=text-decoration:none><strong>
+    test.com</strong></font></td>
+              </tr>
+            
+              <tr>
+                <td align=left valign=middle bgcolor=#E3E3E3><font face=Arial size=2px style=color:#000 text-decoration:none>Query </font></td>
+                <td align=left valign=middle bgcolor=#E3E3E3><font face=Arial size=2px style=color:#000 text-decoration:none=text-decoration:none><strong>
+    Support</strong></font></td>
+              </tr>
+
+              <tr>
+                <td align=left valign=middle bgcolor=#E3E3E3><font face=Arial size=2px style=color:#000 text-decoration:none>Message</font></td>
+                <td align=left valign=middle bgcolor=#E3E3E3><font face=Arial size=2px style=color:#000 text-decoration:none><strong>kjakdbkjashbdkjabsk
+askjbnkasbkdjsbd</strong></font></td>
+              </tr>
+              <tr><td colspan=2 align=left valign=middle bgcolor=#F0F0F0><font face=Arial size=2px style=color:#000><strong>*** This message has been sent from abc.com ***</strong></font></td></tr>
+         
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+      </tr>
+    </table>
+
+✅ Mail sent successfully
+
